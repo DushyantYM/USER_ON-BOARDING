@@ -1,0 +1,17 @@
+.MuiInputLabel-root {
+
+    /* font-size : 1rem; */
+    margin-left: 76px;
+    font-size: 15px !important;
+    font-weight: 900 !important;
+    text-align: left;
+}
+@media (min-width: 400px) {
+    .MuiTextField-root {
+        width: 300px !important;
+    }
+    .css-1y8vfiy {
+        margin: 15px 75px !important;
+        width: 300px;
+    }
+}

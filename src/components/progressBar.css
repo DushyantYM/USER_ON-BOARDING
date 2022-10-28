@@ -1,0 +1,18 @@
+.progress-bar {
+
+    /* margin: 5% 15%; */
+    /* padding: auto; *
+    /* width: 3%; */
+    /* height : 2px;
+    background-color: blue; */
+    position: relative;
+    top: 60px;
+    left : 70px;
+    margin-top : 15px;
+    /* margin-left: 70px; */
+    height : 1px;
+    background-color: #8a52f2;
+
+ 
+
+}

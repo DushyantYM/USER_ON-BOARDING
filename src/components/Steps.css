@@ -1,0 +1,23 @@
+.step {
+    height: 15px;
+    width: 15px;
+    padding: 0.5rem;
+    background: white;
+    border-radius: 2rem;
+    border :  0.1px solid rgb(236, 232, 232);
+    border-width: thin;
+    text-align: center;
+    color : black;
+    font-size: small;
+    
+    /* border: 2px solid #666; */
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+  }
+  li {
+    margin: 1.8rem;
+    z-index: 1;
+  }
